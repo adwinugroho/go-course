@@ -8,4 +8,4 @@ Repository buat bahan ajar Go Programming Languange (GoLang) berisi tentang teor
  - Pengenalan tentang built in package di GoLang yang sering dipakai seperti http, manipulasi file (excel, pdf, txt, json), cara konsumsi API, CORS.
 
 3. Studi kasus dan implementasi
- - Studi kasus yang sering dipaki di industri dan implementasi teknologi seperti message broker (kafka, rabbitmq, jetstream), redis, membuat REST API CRUD menggunakan framework dengan RDBMS ataupun NoSQL, dan proses deployment sederhana menggunakan docker.
+ - Studi kasus yang sering dipaki di industri dan implementasi teknologi seperti message broker (Kafka, Rabbitmq, Jetstream), Redis, membuat REST API CRUD menggunakan framework dengan RDBMS ataupun NoSQL, dan proses deployment sederhana menggunakan Docker.
