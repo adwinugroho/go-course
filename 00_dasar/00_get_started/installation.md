@@ -1,4 +1,13 @@
 # OS X
+1. Bila pakai intel processor
+    - cari yang go1.20.4.darwin-amd64.pkg (x86-64)
+    - langsung di klik saja ketika download telah usai dan ikutin perintah-perintah installernya sampai selesai
+2. Bila pakai Apple Silicon Chip
+    - cari yang go1.20.4.darwin-arm64.pkg (ARM64)
+    - langsung di klik saja ketika download telah usai dan ikutin perintah-perintah installernya sampai selesai
+
+- Untuk verifikasi apakah sudah terinstall atau belum ketikkan perintah
+    - go version
 
 # Linux (ubuntu)
 1. Bila sudah install **snap**, bisa dengan mudah pakai perintah:
