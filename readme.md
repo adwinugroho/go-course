@@ -9,3 +9,5 @@ Repository buat bahan ajar Go Programming Languange (GoLang) berisi tentang teor
 
 3. Studi kasus dan implementasi
  - Studi kasus yang sering dipaki di industri dan implementasi teknologi seperti message broker (Kafka, Rabbitmq, Jetstream), Redis, membuat REST API CRUD menggunakan framework dengan RDBMS ataupun NoSQL, dan proses deployment sederhana menggunakan Docker.
+
+ ![Google Language Logo](images/logo.png)
