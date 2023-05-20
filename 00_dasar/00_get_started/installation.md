@@ -1,5 +1,6 @@
 # OS X
-1. Bila pakai intel processor
+- download di https://go.dev/dl/
+1. Bila pakai Intel processor
     - cari yang go1.20.4.darwin-amd64.pkg (x86-64)
     - langsung di klik saja ketika download telah usai dan ikutin perintah-perintah installernya sampai selesai
 2. Bila pakai Apple Silicon Chip
@@ -39,3 +40,7 @@
     - go version
 
 # Windows
+- Download di https://go.dev/dl/ cari installer untuk Windows OS sesuai dengan tipe OS-nya masing-masing jika 64bit maka cari arch x86-64 apabila 32bit cari arch x86, jalankan installer dan ikuti perintahnya sampai selesai secara otomatis GoLang akan terinstall di "C:\go" dan go path akan otomatis terdaftar di environment variable.
+
+- Untuk verifikasi apakah sudah terinstall atau belum ketikkan perintah
+    - go version
