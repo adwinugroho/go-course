@@ -1,4 +1,4 @@
-# Go Exercises
+# Go Course
 
 Repository buat bahan ajar Go Programming Languange (GoLang) berisi tentang teori tentang GoLang, soal-soal latihan, dan GoLang untuk web (API) serta implementasi teknologi-teknologi yang sering dipakai di GoLang. Terdiri atas 3 bagian, yaitu:
 1. Dasar
